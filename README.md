@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a1zh
-- 👀 I’m interested in C, Pyton, Javascript, Docker, OAuth2 and SMTP/IMAP.
+- 👀 I’m interested in C.
 - 🌱 I’m currently learning C
 
 
